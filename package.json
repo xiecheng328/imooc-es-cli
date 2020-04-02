@@ -1,6 +1,6 @@
 {
   "name": "imooc-es-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple CLI for imooc ES",
   "bin": {
     "imooc-es-cli": "./bin/index.js"
